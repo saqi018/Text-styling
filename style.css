@@ -1,0 +1,261 @@
+/* Font Family */
+
+/* body{
+
+    font-family: 'Courier New', Courier, monospace
+}
+
+.para1{
+
+    font-family: cursive;
+
+}
+
+h1{
+
+    font-family: Impact, Haettenschweiler, sans-serif;
+} */
+
+/* font size */
+
+/* pixels 
+p{
+    font-size: 80px;
+}
+ percentage */
+
+/* p{
+
+    font-size: 600%;
+ } */
+
+/* default value */
+
+/* p{
+
+     font-size: xx-large; 
+    font-size: x-small;
+    font-size: medium;
+    font-size: large;
+    font-size: small; 
+ } */
+
+/* in em */
+
+/* p{
+
+    font-size: 5em;
+} */
+
+
+/* using pt
+
+p{
+    font-size: 45pt;
+} */
+
+
+/* font-face*/
+
+
+/* @font-face {
+    font-family: 'test';
+    src:url('/Fonts/DancingScript-SemiBold.ttf')
+}
+
+h1{
+
+    font-family: test;
+} */
+
+/* font weight */
+
+/* p1{
+
+    font-weight: bolder;
+    font-weight: bold;
+    
+} */
+
+/* p2{
+
+    font-style: italic;
+    /* font-style: oblique;
+ font-style: initial; 
+}
+*/
+
+/* text-transform */
+/* .upper{
+
+    text-transform: uppercase;
+}
+
+.lower{
+
+    text-transform: lowercase;
+}
+
+.capitalize{
+
+    text-transform: capitalize;
+}
+
+
+/* text decoration */
+/* .under{
+
+    text-decoration: underline;
+}
+
+.over{
+
+    text-decoration: overline;
+}
+
+
+.through{
+
+    text-decoration: line-through;
+} */
+
+
+
+/* line-height */
+
+
+/* .line-height{
+
+    line-height: 80px;
+} */
+
+
+/* letter-spacing word-spacing  */
+/* 
+.letter-spacing{
+
+    letter-spacing: 10px;
+}
+
+.word-spacing{
+
+    word-spacing: 25px;
+} */
+
+
+/* Text-align */
+
+/* .left {
+
+    text-align: left;
+
+}
+
+
+.right {
+
+
+    text-align: right;
+}
+
+
+.center {
+
+    text-align: center;
+
+}
+
+
+.justify {
+
+    text-align: justify;
+
+
+} */
+
+
+/* vertical-align */
+
+/* img.top {
+
+    vertical-align: text-top;
+} */
+
+
+
+/* text-indent */
+
+/* p{
+
+     text-indent: 25px;
+      text-indent: 50px;
+    text-indent: 75px;
+    text-indent: 100px;
+} */
+
+
+/* text-shadow */
+
+/* .text-shadow{
+
+
+    background-color: rgb(249, 249, 249);
+    color: rgb(50, 47, 47);
+    text-shadow: 1px 0px 0px red ;
+} */
+
+
+/* first-letter, first-line
+
+
+p.second::first-letter {
+    font-size: 200%;}
+
+
+p.first::first-line {
+    font-weight: bold;} */
+
+
+    /* styling-link */
+
+/* a:link{
+
+    color: rgb(0, 255, 47);
+}
+
+a:visited{
+
+    color: rgb(243, 0, 0);
+} */
+
+
+
+/* responding to user */
+
+/* hover */
+
+/* input.btn:hover{
+    background-color: red;
+} */
+
+
+/*  Attribute Selectors */
+
+/* h1[name]{
+    color: red;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
