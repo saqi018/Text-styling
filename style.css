@@ -241,21 +241,53 @@ a:visited{
 
 /*  Attribute Selectors */
 
-/* h1[name]{
+
+/* Existence */
+
+/* p[name]{
     color: red;
 } */
 
 
+/* Equality */
+
+/* p[class="hello"]{
+
+    color: yallow;
+} */
 
 
+/* Space */
+
+/* p[class~="by"]{
+
+    color: blue;
+} */
 
 
+/* perfix */
 
+/* p[class^"h"]{
 
+    color: red;
 
+} */
 
+/* SubString */
 
+/* p[class*"hi"]{
 
+    color: aqua;
+
+} */
+
+/* Suffix */
+
+/* p[attr$"h"]{
+
+    color: blueviolet;
+
+} */
 
 
 
